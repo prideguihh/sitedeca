@@ -1,7 +1,7 @@
 // Configuracao da API do Backend PHP
 // Altere esta URL para apontar para o seu servidor
 
-export const API_BASE_URL = "https://seu-servidor.com/api"
+export const API_BASE_URL = "https://tcc3eetecgrupo3t1.websiteseguro.com/api"
 
 // Endpoints
 export const API_ENDPOINTS = {
