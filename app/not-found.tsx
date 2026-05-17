@@ -11,10 +11,6 @@ export default function NotFound() {
           <div className="w-32 h-32 mx-auto rounded-3xl bg-primary/10 flex items-center justify-center animate-bounce">
             <Bot className="w-16 h-16 text-primary" />
           </div>
-          {/* Icone de interrogacao */}
-          <div className="absolute -top-2 -right-2 w-12 h-12 rounded-full bg-accent flex items-center justify-center text-accent-foreground font-bold text-xl">
-            ?
-          </div>
           {/* Pequenas engrenagens decorativas */}
           <div className="absolute top-0 left-1/4 w-4 h-4 rounded-full bg-secondary border-2 border-primary/30" />
           <div className="absolute bottom-4 right-1/4 w-3 h-3 rounded-full bg-secondary border-2 border-primary/30" />
